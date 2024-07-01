@@ -10,7 +10,7 @@ Example:
 Params: given string
 Return: returns string 
 Concerns: will it always be letters? does it need to be case sensitive?
-Solutions: 
+Solutions: split the string, reverse the order, then join them in the new order
 Given Code: 
 function solution(str){
   
