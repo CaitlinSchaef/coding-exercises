@@ -22,7 +22,7 @@ function validatePIN(pin) {
     //check pin length first
     if (pin.length === 4 || pin.length === 6) {
       // if pin is either 4 or 6 long, then will check for if it's number or not
-       return /^\d+$/.test(pin);
+       return /^\d+$/.test(pin)
     }
-    return false;
+    return false
   }
