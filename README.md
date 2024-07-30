@@ -20,7 +20,6 @@ This is complicated stuff! Don't speak negatively about yourself. Keep a positiv
 Translate: 
 Take your plain logic steps from the “Explain” section and write them as comments in your code editor. Then use the programming language for the Kata to implement that plain English logic into code!
 
-
 OR
 
 Use this that I made: 
